@@ -1,7 +1,7 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Daniil Kim 👋
 
 ## 👨‍💻 Professional Summary
-I'm a [Your Job Title/Profession] with [number of years] years of experience in [your areas of expertise]. Passionate about [specific interests in your field], I'm committed to delivering high-quality and scalable solutions. [Add any notable achievements or personal pitch].
+I'm a student in Master's in Business Analytics and Big Data with [number of years] years of experience in [your areas of expertise]. Passionate about [specific interests in your field], I'm committed to delivering high-quality and scalable solutions. [Add any notable achievements or personal pitch].
 
 ## 📈 GitHub Statistics
 
@@ -41,7 +41,10 @@ Another brief description. This section is your chance to showcase the variety a
 - Any relevant coursework or projects.
 
 ## 🛠 Skills
-- **Languages**: Python, JavaScript, etc.
+- **Languages**: <p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+  <img alt="Apache Spark" src="https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white" /></p>
 - **Frameworks**: React, Django, etc.
 - **Tools**: Docker, Git, etc.
 
