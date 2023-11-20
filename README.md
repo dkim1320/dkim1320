@@ -41,16 +41,32 @@ Another brief description. This section is your chance to showcase the variety a
 - Any relevant coursework or projects.
 
 ## 🛠 Skills
-- **Languages**: <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
-  <img alt="Apache Spark" src="https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white" /></p>
+<div>
+  <span style="margin-right: 10px;">Languages:</span>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffd343" alt="Python"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  </a>
+  <a href="https://spark.apache.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+  </a>
+</div>
 - **Frameworks**: React, Django, etc.
 - **Tools**: Docker, Git, etc.
 
 ## 📫 How to Reach Me
-- **Email**: d.kim@student.ie.edu
-- **LinkedIn**: linkedin.com/daniilkim
+<p>
+  <a href="mailto:d.kim@student.ie.edu" target="_blank">
+    <img src="https://img.shields.io/badge/Send%20me%20an%20email-%2333993C.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email"/>
+  </a>
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/daniilkim" target="_blank">
+    <img src="https://img.shields.io/badge/Daniil%20Kim-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Daniil Kim's LinkedIn"/>
+  </a>
+</p>
 
 ## 📄 Certifications
 - [Certification Name], [Issuing Organization] - Year
